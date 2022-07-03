@@ -1,7 +1,11 @@
 Hello Falih!
 
 new branch added 112
+<<<<<<< HEAD
 
 new line added
 conflict 
 
+=======
+new line added
+>>>>>>> 112
